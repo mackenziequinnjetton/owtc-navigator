@@ -14,13 +14,17 @@ namespace OWTCNavigatorClasses
         {
             var hoursLeftInDay = 0;
             var moduleDueDateList = new List<ModuleDueDate>();
-            var currentDay = DateTime.Today;
+            var currentDay = startDate;
 
             foreach (var module in moduleList)
             {
                 var remainingModuleHours = module.Hours;
 
-                if (hoursLeftInDay > remainingModuleHours)
+                if (Holiday.IsHoliday(currentDay))
+                {
+                    currentDay = currentDay.AddDays(1);
+                }
+                else if (hoursLeftInDay > remainingModuleHours)
                 {
                     moduleDueDateList.Add(new ModuleDueDate(module.Name,
                         currentDay));
@@ -34,14 +38,14 @@ namespace OWTCNavigatorClasses
                         currentDay));
                     hoursLeftInDay -= remainingModuleHours;
                     remainingModuleHours = 0;
-                    currentDay += new TimeSpan(1, 0, 0, 0);
+                    currentDay = currentDay.AddDays(1);
                     continue;
                 }
                 else if (hoursLeftInDay != 0)
                 {
                     remainingModuleHours -= hoursLeftInDay;
                     hoursLeftInDay = 0;
-                    currentDay += new TimeSpan(1, 0, 0, 0);
+                    currentDay = currentDay.AddDays(1);
                 }
 
                 while (true)
@@ -49,7 +53,12 @@ namespace OWTCNavigatorClasses
                     var currentDayScheduledHours = studentSchedule
                         .ScheduleList[(int)currentDay.DayOfWeek];
 
-                    if (remainingModuleHours >= currentDayScheduledHours)
+                    if (Holiday.IsHoliday(currentDay))
+                    {
+                        currentDay = currentDay.AddDays(1);
+                        continue;
+                    }
+                    else if (remainingModuleHours >= currentDayScheduledHours)
                     {
                         remainingModuleHours -= currentDayScheduledHours;
                         if (remainingModuleHours == 0)
@@ -58,7 +67,7 @@ namespace OWTCNavigatorClasses
                                 module.Name, currentDay));
                             break;
                         }
-                        currentDay += new TimeSpan(1, 0, 0, 0);
+                        currentDay = currentDay.AddDays(1);
                         continue;
 
                     }
