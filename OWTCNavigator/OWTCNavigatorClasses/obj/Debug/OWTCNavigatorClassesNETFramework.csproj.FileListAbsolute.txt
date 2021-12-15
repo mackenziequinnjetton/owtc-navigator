@@ -1,0 +1,6 @@
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\bin\Debug\OWTCNavigatorClassesNETFramework.dll
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\bin\Debug\OWTCNavigatorClassesNETFramework.pdb
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\obj\Debug\OWTCNavigatorClassesNETFramework.csproj.AssemblyReference.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\obj\Debug\OWTCNavigatorClassesNETFramework.csproj.CoreCompileInputs.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\obj\Debug\OWTCNavigatorClassesNETFramework.dll
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigatorClassesNETFramework\obj\Debug\OWTCNavigatorClassesNETFramework.pdb

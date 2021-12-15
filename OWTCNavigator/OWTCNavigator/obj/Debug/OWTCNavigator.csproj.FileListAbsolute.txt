@@ -1,0 +1,14 @@
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\bin\Debug\OWTCNavigator.exe.config
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\bin\Debug\OWTCNavigator.exe
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\bin\Debug\OWTCNavigator.pdb
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\bin\Debug\OWTCNavigatorClasses.dll
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\bin\Debug\OWTCNavigatorClasses.pdb
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.AssemblyReference.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.SuggestedBindingRedirects.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.OWTCNavigatorForm.resources
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.Properties.Resources.resources
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.GenerateResource.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.CoreCompileInputs.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.CopyComplete
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.exe
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigator\obj\Debug\OWTCNavigator.pdb
