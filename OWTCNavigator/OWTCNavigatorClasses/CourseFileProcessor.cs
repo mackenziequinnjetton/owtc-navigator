@@ -9,6 +9,8 @@ namespace OWTCNavigatorClasses
 {
     public static class CourseFileProcessor
     {
+        // For testing purposes, opens a CSV file with sample course
+        // information, and parses it into a list of modules
         public static List<Module> ProcessCourseModules(string filePath)
         {
             var reader = new StreamReader(File.OpenRead(filePath));
@@ -20,6 +22,7 @@ namespace OWTCNavigatorClasses
                 var line = reader.ReadLine();
                 var values = line.Split(',');
 
+                // Adds only the module name and the number of progress hours
                 moduleList.Add(new Module(values[3], float.Parse(values[5])));
             }
 

@@ -1,0 +1,14 @@
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.AssemblyReference.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.SuggestedBindingRedirects.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.NavigatorForm.resources
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.Properties.Resources.resources
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.GenerateResource.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.CoreCompileInputs.cache
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\bin\Debug\OWTCNavigator.exe.config
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\bin\Debug\OWTCNavigator.exe
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\bin\Debug\OWTCNavigator.pdb
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\bin\Debug\OWTCNavigatorClassesNETFramework.dll
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\bin\Debug\OWTCNavigatorClassesNETFramework.pdb
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.csproj.CopyComplete
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.exe
+C:\Users\macke\OneDrive\Documents\GitHub\owtc-navigator\OWTCNavigator\OWTCNavigatorClasses\OWTCNavigator\obj\Debug\OWTCNavigator.pdb

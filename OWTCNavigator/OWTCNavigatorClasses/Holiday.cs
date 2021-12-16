@@ -13,11 +13,13 @@ using System.Threading.Tasks;
 namespace OWTCNavigatorClasses
 
 {
-
+    // Credit to David Everton for original code, which has been further
+    // modified by myself, MacKenzie Quinn Jetton
     public class Holiday
 
     {
-
+        // Checks if the current working date in the due date generating
+        // algorithm is one of various holidays
         public static bool IsHoliday(DateTime date)
 
         {
@@ -421,6 +423,8 @@ namespace OWTCNavigatorClasses
 
         }
 
+        // Shifts the observed date of a holiday to account for it
+        // landing on a weekend
         private static DateTime AdjustForWeekendHoliday(DateTime holiday)
 
         {
